@@ -160,7 +160,7 @@ object DeviceInfoHelper {
         Device("Redmi Note 13 Pro+", "zircon", "NO"),
         Device("Redmi Note 13 / 13R Pro / POCO X6 Neo", "gold", "NQ"),
         Device("Redmi Note 13 Pro / POCO X6", "garnet", "NR"),
-        Device("Redmi Note 13 Pro (Global)", "emerald", "NF"),
+        Device("Redmi Note 13 Pro 4G / POCO M6 Pro", "emerald", "NF"),
         Device("Redmi Note 14 4G", "tanzanite", "OG"),
         Device("Redmi Note 14 / 14 SE / POCO M7 Pro", "beryl", "OQ"),
         Device("Redmi Note 14S", "emerald_r", "FO"),
